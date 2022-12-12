@@ -1,0 +1,34 @@
+
+a=[1,2,3]
+print(a)
+b=["jatin",1,1.5,print]
+len("jatin")
+"jatin"+"katayal"
+[1,2,3,4,5]+[5,6,7,8]
+a=[1,2,3,4,5]
+for i in a:
+    prit(i)
+"a" in "jatin"
+a=[1,2,3,4,5]
+a[-1]
+a=[1,2,3,4]
+a.insert(1,100)
+a.append(5)
+a.pop()
+a.remove()
+a=["jatin","samarth","shubham"]
+a=[1,2,3,4,5,6]
+a.sort()
+
+a.reverse()
+for i in reversed(a):
+    print(i)
+a=[1,2,3,4]
+map(lambda x:x**2,a):
+    print(x)
+for i, x in enumerated(a):
+    pass
+def sqr(x):
+    return(x**2)
+a=map(int, input().split(.))
+",".join(["jatin","sma"])
