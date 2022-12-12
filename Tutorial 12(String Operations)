@@ -1,0 +1,23 @@
+write a code in c to add 2 numbers without any arthematic operator.
+...
+int a= print("abc"):
+// a==3
+...
+a=5
+print("value of a is %d" :(a))
+print("value of a is ()")
+print("value of a is %d" :(a))
+
+a,b,c=1,2,3
+"a={},b={},c={}".format(a,b,c)
+name= "jatin katyal"
+company="shuttl"
+"name={name} company={company}".format(name=name, company=company)
+print("name={name}")
+len(r"a\nb")
+for c in r"a\nb":
+    print(c)
+"    jatin    ".strip()
+"1,2,3,4,5".split(",")
+"jatin katyal".replace("a","x")
+"jatin katyal".count("a")
